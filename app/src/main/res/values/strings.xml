@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppXinViec_Firebase</string>
+    <string name="hom_nay">Hôm nay</string>
+    <string name="ngay_mai">Ngày mai</string>
+    <string name="hom_qua">Hôm qua</string>
+</resources>
